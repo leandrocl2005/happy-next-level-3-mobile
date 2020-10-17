@@ -1,0 +1,6 @@
+- > yarn global add expo-cli
+- Se não funcionar, adicione ao path
+- > yarn global bin
+- > expo init mobile
+- Escolha typescript blank
+- > yarn start
